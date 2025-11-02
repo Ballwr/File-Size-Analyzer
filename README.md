@@ -31,3 +31,4 @@ This project demonstrates:
 ```bash```
 gcc file_size_analyzer.c -o file_size_analyzer
 ./file_size_analyzer
+```bash```
